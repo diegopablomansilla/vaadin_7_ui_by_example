@@ -18,6 +18,7 @@ import com.vaadin.ui.VerticalLayout;
  * <p>
  * The UI is initialized using {@link #init(VaadinRequest)}. This method is intended to be 
  * overridden to add component to the user interface and initialize non-component functionality.
+ * 
  */
 @Theme("mytheme")
 @SuppressWarnings("serial")
